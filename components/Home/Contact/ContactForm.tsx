@@ -5,7 +5,7 @@ const ContactForm = () => {
     <div className='bg-[#140c1c] rounded-lg p-4 sm:p-10'>
        <h1 className='text-bg text-2xl md:text-3xl lg:text-[2.5rem] font-bold'>Let&apos;s work together</h1>
        <p className='text-gray-200 mt-3 lg:text-base text-xs md:text-sm'>
-       Let’s create something remarkable together. Whether it’s a question, an idea, or an opportunity, I&apos;sm just a message away</p>
+       Let&apos;ss create something remarkable together. Whether it&apos;ss a question, an idea, or an opportunity, I&apos;sm just a message away</p>
        <form className='mt-8 block w-full overflow-hidden'>
             <div className='flex flex-col md:flex-row items-center justify-between gap-4'>
                 <input type="text" placeholder='First Name' className='flex-1 bg-black text-white
